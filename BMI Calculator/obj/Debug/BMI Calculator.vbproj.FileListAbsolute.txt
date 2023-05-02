@@ -1,0 +1,12 @@
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\bin\Debug\BMI Calculator.xml
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.vbproj.AssemblyReference.cache
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI_Calculator.frmBMI.resources
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.cache
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.xml
+C:\Users\barron_wesley\source\repos\Final Project\BMI Calculator\obj\Debug\BMI Calculator.pdb
